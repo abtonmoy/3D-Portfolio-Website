@@ -1,0 +1,36 @@
+A modern tech 3D portfolio website with modern animations with this color palate 
+- Tailwind
+
+{ 'brunswick_green': { DEFAULT: '#00524e', 100: '#001010', 200: '#00211f', 300: '#00312f', 400: '#00413e', 500: '#00524e', 600: '#00a79f', 700: '#00fdf0', 800: '#54fff6', 900: '#a9fffb' }, 'beaver': { DEFAULT: '#a97c73', 100: '#231816', 200: '#47302b', 300: '#6a4841', 400: '#8e6057', 500: '#a97c73', 600: '#bb9790', 700: '#ccb1ac', 800: '#ddcbc7', 900: '#eee5e3' }, 'pakistan_green': { DEFAULT: '#0f3607', 100: '#030b01', 200: '#061603', 300: '#092004', 400: '#0c2b06', 500: '#0f3607', 600: '#258611', 700: '#3bd51c', 800: '#77ea60', 900: '#bbf5b0' }, 'olivine': { DEFAULT: '#b2c794', 100: '#242d18', 200: '#495b30', 300: '#6d8848', 400: '#91af67', 500: '#b2c794', 600: '#c1d2a9', 700: '#d1ddbf', 800: '#e0e8d4', 900: '#f0f4ea' }, 'chocolate_cosmos': { DEFAULT: '#4b1b21', 100: '#0f0507', 200: '#1e0b0d', 300: '#2d1014', 400: '#3c161a', 500: '#4b1b21', 600: '#87313b', 700: '#be4b58', 800: '#d48790', 900: '#e9c3c7' } }
+
+- CSV
+
+00524e,a97c73,0f3607,b2c794,4b1b21
+
+- With #
+
+#00524e, #a97c73, #0f3607, #b2c794, #4b1b21
+
+- Array
+
+["00524e","a97c73","0f3607","b2c794","4b1b21"]
+
+- Object
+
+{"Brunswick green":"00524e","Beaver":"a97c73","Pakistan green":"0f3607","Olivine":"b2c794","Chocolate cosmos":"4b1b21"}
+
+- Extended Array
+
+[{"name":"Brunswick green","hex":"00524e","rgb":[0,82,78],"cmyk":[100,0,5,68],"hsb":[177,100,32],"hsl":[177,100,16],"lab":[31,-22,-4]},{"name":"Beaver","hex":"a97c73","rgb":[169,124,115],"cmyk":[0,27,32,34],"hsb":[10,32,66],"hsl":[10,24,56],"lab":[56,16,12]},{"name":"Pakistan green","hex":"0f3607","rgb":[15,54,7],"cmyk":[72,0,87,79],"hsb":[110,87,21],"hsl":[110,77,12],"lab":[19,-24,24]},{"name":"Olivine","hex":"b2c794","rgb":[178,199,148],"cmyk":[11,0,26,22],"hsb":[85,26,78],"hsl":[85,31,68],"lab":[78,-16,23]},{"name":"Chocolate cosmos","hex":"4b1b21","rgb":[75,27,33],"cmyk":[0,64,56,71],"hsb":[353,64,29],"hsl":[353,47,20],"lab":[17,23,8]}]
+
+- XML
+
+<palette>
+  <color name="Brunswick green" hex="00524e" r="0" g="82" b="78" />
+  <color name="Beaver" hex="a97c73" r="169" g="124" b="115" />
+  <color name="Pakistan green" hex="0f3607" r="15" g="54" b="7" />
+  <color name="Olivine" hex="b2c794" r="178" g="199" b="148" />
+  <color name="Chocolate cosmos" hex="4b1b21" r="75" g="27" b="33" />
+</palette>
+-------------------------
+
