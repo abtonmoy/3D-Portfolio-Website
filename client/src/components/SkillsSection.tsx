@@ -33,18 +33,20 @@ export default function SkillsSection() {
   const skillCategories = [
     {
       title: "Programming Languages",
-      skills: ["Python", "JavaScript", "SQL", "Kotlin", "Flutter", "C"],
+      skills: ["Python", "JavaScript", "SQL", "C"],
     },
     {
       title: "Frameworks & Tools",
       skills: [
-        "React",
         "PyTorch",
         "NumPy",
         "Pandas",
         "MongoDB",
         "OpenCV",
         "Ros2",
+        "React",
+        "Kotlin",
+        "Flutter",
       ],
     },
     {
@@ -53,6 +55,8 @@ export default function SkillsSection() {
         "Machine Learning",
         "Data Science",
         "AI/ML",
+        "Web Development",
+        "App Development",
         "Robotics",
         "Bioinformatics",
       ],
