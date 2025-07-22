@@ -121,9 +121,7 @@ export default function AboutSection() {
                   initial={{ opacity: 0 }}
                   animate={isInView ? { opacity: 1 } : { opacity: 0 }}
                   transition={{ delay: 0.8 }}
-                >
-                  Data Scientist & AI Engineer
-                </motion.p>
+                ></motion.p>
               </div>
             </motion.div>
           </motion.div>
